@@ -13,12 +13,12 @@
     </properties>
 
     <dependencies>
-        <!-- Ajoutez vos dépendances ici -->
+        <!-- Ajout de dépendances -->
     </dependencies>
 
     <build>
         <plugins>
-            <!-- Ajoutez vos plugins ici -->
+            <!-- Ajout de  plugins -->
         </plugins>
     </build>
 </project>
